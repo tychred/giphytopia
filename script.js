@@ -31,21 +31,3 @@ async function getTrendingGifs() {
 
 
 
-
-
-
-// const numbers = [1, 2, 3, 4, 5];
- 
-// function squareNumbers(arr) {
-//   return arr.map((number) => {
-//     return Math.pow(number, 2)
-//   });
-// }
- 
-// console.log(squareNumbers(numbers)); // Expected output: [1, 4, 9, 16, 25]
-
-
-
-
-
-
